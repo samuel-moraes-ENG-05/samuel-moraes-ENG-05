@@ -99,4 +99,12 @@ Aqui você encontrará projetos desenvolvidos ao longo da minha jornada acadêmi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
 />
+<img 
+    align="left" 
+    alt="vscode" 
+    title="vscode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
 <br/>
