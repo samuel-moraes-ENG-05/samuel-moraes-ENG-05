@@ -83,4 +83,20 @@ Aqui você encontrará projetos desenvolvidos ao longo da minha jornada acadêmi
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" 
 />
+<img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Intellij" 
+    title="Intellij"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+/>
 <br/>
